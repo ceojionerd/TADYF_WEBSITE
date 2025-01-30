@@ -472,6 +472,7 @@ body {
 .contact-info h3 {
     font-size: clamp(1.25rem, 2vw, 1.5rem);
     margin-bottom: 2rem;
+    margin-top: auto;
 }
 
 .info-item {
